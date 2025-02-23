@@ -1,0 +1,40 @@
+El cálculo de fracciones tiene varias propiedades importantes que nos permiten realizar diversas operaciones y simplificaciones. A continuación, se presentan algunas de las propiedades más importantes del cálculo de fracciones:
+
+1. **Suma de fracciones:**
+   - Si las fracciones tienen el mismo denominador, se suman los numeradores y se mantiene el denominador constante.
+   - Si las fracciones tienen diferentes denominadores, primero se busca un denominador común y luego se suman los numeradores.
+
+2. **Resta de fracciones:**
+   - Se sigue el mismo proceso que en la suma de fracciones.
+
+3. **Multiplicación de fracciones:**
+   - Se multiplican los numeradores y se multiplican los denominadores para obtener la fracción resultante.
+
+4. **División de fracciones:**
+   - Se invierte la segunda fracción y se realiza una multiplicación.
+
+5. **Simplificación de fracciones:**
+   - Se divide el numerador y el denominador por su máximo común divisor (MCD) para obtener la fracción simplificada.
+
+6. **Propiedad distributiva:**
+   - a * (b + c) = a * b + a * c para cualquier número a y fracciones b y c.
+
+7. **Propiedad asociativa:**
+   - (a + b) + c = a + (b + c) y (a * b) * c = a * (b * c).
+
+8. **Identidad aditiva:**
+   - a + 0 = a, donde 0 representa la fracción con numerador igual a 0 y cualquier denominador.
+
+9. **Identidad multiplicativa:**
+   - a * 1 = a, donde 1 representa la fracción con numerador igual a 1 y cualquier denominador.
+
+10. **Propiedad de reciprocidad:**
+    - a * (1/a) = 1, donde 'a' es cualquier número diferente de cero y 1/a representa el recíproco de 'a'.
+
+11. **Cancelación de términos:**
+    - Si tenemos dos fracciones a/b y c/d, donde b, d ≠ 0, y a/c = b/d, entonces ad = bc. Esta propiedad nos permite cancelar términos comunes en una ecuación o expresión.
+
+12. **Fracciones equivalentes:**
+    - Dos fracciones son equivalentes si representan la misma cantidad, pero pueden tener diferentes numeradores y denominadores. Pueden obtenerse multiplicando o dividiendo ambos términos por el mismo número.
+
+Estas son algunas de las propiedades fundamentales del cálculo de fracciones. Estas propiedades nos ayudan a simplificar, combinar y realizar operaciones aritméticas con fracciones de manera efectiva.

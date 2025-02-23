@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:1-1.semestre/QUIMICA  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:1-2.semestre/fisica/fundamentos_de_fisica  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"1-1.semestre/FUNCIONES DE UNA VARIABLE I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5984992
+      }
+    },
+    {
+      "query": "path:\"1-2.semestre/analisis matematico II\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:1-2.semestre/fisica_computacional  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.298843930635838,
+  "repelStrength": 20,
+  "linkStrength": 0.830635838150289,
+  "linkDistance": 162,
+  "scale": 0.05932617187500398,
+  "close": true
+}

@@ -1,0 +1,35 @@
+El cálculo de fracciones implica realizar diversas operaciones aritméticas con números racionales. Aquí tienes los pasos a seguir para diferentes operaciones con fracciones:
+
+1. **Suma y Resta de fracciones:**
+   - Verifica que ambas fracciones tengan el mismo denominador. Si no lo tienen, busca un denominador común.
+   - Suma o resta los numeradores manteniendo el denominador constante.
+   - Si es necesario, simplifica la fracción resultante dividiendo el numerador y el denominador por su máximo común divisor (MCD).
+
+2. **Multiplicación de fracciones:**
+   - Multiplica los numeradores para obtener el nuevo numerador.
+   - Multiplica los denominadores para obtener el nuevo denominador.
+   - Simplifica la fracción resultante si es necesario.
+
+3. **División de fracciones:**
+   - Invierte la segunda fracción (toma su recíproco).
+   - Realiza una multiplicación utilizando la fracción original y su recíproco.
+   - Simplifica la fracción resultante si es necesario.
+
+4. **Simplificación de fracciones:**
+   - Encuentra el máximo común divisor (MCD) del numerador y el denominador.
+   - Divide ambos términos por el MCD para obtener la fracción simplificada.
+
+5. **Encontrar un denominador común:**
+   - Encuentra el mínimo común múltiplo (MCM) de los denominadores.
+   - Ajusta las fracciones multiplicando tanto el numerador como el denominador por el factor necesario para tener el denominador común.
+
+6. **Comparar fracciones:**
+   - Si las fracciones tienen el mismo denominador, compara los numeradores.
+   - Si las fracciones tienen diferentes denominadores, busca un denominador común y compara los numeradores ajustados.
+
+7. **Convertir fracciones a decimales:**
+   - Divide el numerador entre el denominador para obtener el valor decimal equivalente.
+
+Recuerda que, en general, es útil simplificar las fracciones siempre que sea posible para obtener resultados más sencillos y fáciles de interpretar. Además, al realizar operaciones con fracciones, es importante mantener un denominador común para sumar o restar y tener cuidado con la división para evitar dividir entre cero.
+
+Siguiendo estos pasos, podrás realizar diversas operaciones con fracciones de manera efectiva y obtener resultados precisos.

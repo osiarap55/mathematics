@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "9af808af5ff83a76",
+    "type": "split",
+    "children": [
+      {
+        "id": "187c9330b1c00b9a",
+        "type": "tabs",
+        "dimension": 47.97441364605544,
+        "children": [
+          {
+            "id": "2225c47cb06a2b44",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1-1.semestre/QUIMICA/1-parte/Plandetrabajo1parte.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Plandetrabajo1parte"
+            }
+          },
+          {
+            "id": "aabcb70059d3f88c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1-2.semestre/fisica/1.cinetica/Problemas_resueltos_Tema_0_(repaso)_Cinemática (1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Problemas_resueltos_Tema_0_(repaso)_Cinemática (1)"
+            }
+          },
+          {
+            "id": "156a95078351ac88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-2.semestre/fisica/fisica_computacional/tema3/resumen_tema3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "resumen_tema3"
+            }
+          },
+          {
+            "id": "40a49637d7fd6b65",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "526c03897c7724c2",
+        "type": "tabs",
+        "dimension": 52.02558635394456,
+        "children": [
+          {
+            "id": "0df02a96a24ddedc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1-1.semestre/QUIMICA/pdfcoffee.com_quimica-general-vol-1-esteban-santos-3-pdf-free.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "pdfcoffee.com_quimica-general-vol-1-esteban-santos-3-pdf-free"
+            }
+          },
+          {
+            "id": "cedc1d32f07ebdb5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ea4163cf322af94",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6f5a038d9825098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e7de53032dfe5b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "03542d18fdcec32f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "64498c31f2b7c7d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5663b1a2162ca0f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e409384d9e4b142c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fef02f9f4824e9d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-1.semestre/FUNCIONES DE UNA VARIABLE I/cc3a1lculo-robert-adams-6ta-edicic3b3n.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de cc3a1lculo-robert-adams-6ta-edicic3b3n"
+            }
+          },
+          {
+            "id": "8fa794d204eafb30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-1.semestre/FUNCIONES DE UNA VARIABLE I/cc3a1lculo-robert-adams-6ta-edicic3b3n.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de cc3a1lculo-robert-adams-6ta-edicic3b3n"
+            }
+          },
+          {
+            "id": "7a007669e12dc95e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "238b2ebdd1bdb483",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-1.semestre/FUNCIONES DE UNA VARIABLE I/cc3a1lculo-robert-adams-6ta-edicic3b3n.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de cc3a1lculo-robert-adams-6ta-edicic3b3n"
+            }
+          },
+          {
+            "id": "e4932b7db47e0b4d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Crear nueva nota única": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "40a49637d7fd6b65",
+  "lastOpenFiles": [
+    "contenido de cada materia/contenidos discretas.txt",
+    "contenido de cada materia/~$ntenidos discretas.docx",
+    "programacion_lineal_y_entera/links videos clases.txt",
+    "programacion_lineal_y_entera/61022062_t6XgqbQ.pdf",
+    "programacion_lineal_y_entera",
+    "lenguaje_de_programacion/enunciadoTrabajoLP_jun22.pdf",
+    "lenguaje_de_programacion/objetivosDocentes_LP.pdf",
+    "lenguaje_de_programacion",
+    "2-2 semestre/programacion_lineal_y_entera/links videos clases.txt",
+    "2-2 semestre/programacion_lineal_y_entera/61022062_t6XgqbQ.pdf",
+    "2-2 semestre/programacion_lineal_y_entera",
+    "geometria_basica/ejercicios/6. teorema de pitagoras/ejercicio 6.4.jpg",
+    "geometria_basica/ejercicios/6. teorema de pitagoras/ejercicio 6.3.jpg",
+    "geometria_basica/ejercicios/6. teorema de pitagoras/ejercicio 6.10_c.jpg",
+    "geometria_basica/ejercicios/6. teorema de pitagoras/ejercicio 6.10_b).jpg",
+    "geometria_basica/ejercicios/6. teorema de pitagoras/ejercicio 6.10.jpg",
+    "geometria_basica/ejercicios/5. teorema de Tales/Ejercicio5.2.jpg",
+    "fisica_computacional/tema6_programacion_algoritmos_numericos/resumen_tema6.md",
+    "fisica_computacional/tema3_introduccion_a_MATLAB/resumen_tema3.md",
+    "fisica_computacional/tema4_visualizacion_cientifica/resumen_tema4.md",
+    "fisica_computacional/tema2_introduccion_a_C/resumen_tema2.md",
+    "fisica_computacional/tema7_simulacion_sistemas_fisicos/sistemas_dinamicos.md",
+    "fisica_computacional/tema7_simulacion_sistemas_fisicos/resumen_tema7.md",
+    "fisica_computacional/tema7_simulacion_sistemas_fisicos/metodos_de_monte_carlo.md",
+    "fisica_computacional/tema7_simulacion_sistemas_fisicos/fractales.md",
+    "fisica_computacional/tema7_simulacion_sistemas_fisicos/automatas_celulares_elementales.md",
+    "fisica_computacional/tema5_calculo_simbolico/resumen_tema5.md",
+    "fisica_computacional/tema0_la_fisica_enlaerainformatica/resumen_tema0.md",
+    "fisica_computacional/tema1_introduccion_a_la_computacion/resumen_tema1.md",
+    "fisica/fundamentos_de_fisica/metodologia_resolucion_problemas.md",
+    "fisica/fundamentos_de_fisica/metodo_de_trabajo_asignatura.md",
+    "fisica/fundamentos_de_fisica/planificacion_curso.md",
+    "fisica/fundamentos_de_fisica/metodologia.md",
+    "fisica/fundamentos_de_fisica/contenido_asignatura.md",
+    "analisis_matematico_II/tema8_teoremas_integracion_analisis_vectorial/teoremas_integracion_del_analisis_vectorial.md",
+    "analisis_matematico_II/tema7_integrales_sobre_curvas_superficies/integrales_sobre_curvas_y_superficies.md",
+    "analisis_matematico_II/tema4_funciones_con_valores_vectoriales/funciones_valores_vectoriales.md",
+    "analisis_matematico_II/tema6_formula_cambio_variable_y_aplicaciones_integracion/formula_del_cambio_varible_y_aplicacion_dela_integracion.md",
+    "analisis_matematico_II/tema5_integrales_dobles_triples/integrales_dobles_triples.md",
+    "analisis_matematico_II/tema2_diferenciacion/diferenciacion.md",
+    "analisis_matematico_II/tema3_derivadas_de_orden_superior_max_min/derivadas_orden_superior_max_y_min.md",
+    "analisis_matematico_II/tema1_la_geometria_del_espacio_euclideo/la_geometria_del_espacio_euclideo.md",
+    "1-2.semestre/geometria_basica/ejercicios/6. teorema de pitagoras/ejercicio 6.4.jpg",
+    "1-2.semestre/geometria_basica/ejercicios/6. teorema de pitagoras/ejercicio 6.3.jpg",
+    "1-2.semestre/geometria_basica/ejercicios/6. teorema de pitagoras/ejercicio 6.10_c.jpg",
+    "1-2.semestre/geometria_basica/ejercicios/6. teorema de pitagoras/ejercicio 6.10_b).jpg"
+  ]
+}

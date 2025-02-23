@@ -1,0 +1,62 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 21.05.2 ] */
+/* [wxMaxima: input   start ] */
+n:read("introducir numero");
+/* [wxMaxima: input   end   ] */
+/* [wxMaxima: question  start ] */
+<math><st>introducir numero</st><st> </st></math>
+/* [wxMaxima: question  end   ] */
+/* [wxMaxima: answer  start ] */
+3
+;
+/* [wxMaxima: answer  end   ] */
+
+
+/* [wxMaxima: input   start ] */
+g[i,j]:=i*j;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+G:genmatrix(g,n,n);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+n:read("introducir numero");
+/* [wxMaxima: input   end   ] */
+/* [wxMaxima: question  start ] */
+<math><st>introducir numero</st><st> </st></math>
+/* [wxMaxima: question  end   ] */
+/* [wxMaxima: answer  start ] */
+5;
+/* [wxMaxima: answer  end   ] */
+
+
+/* [wxMaxima: input   start ] */
+g[i,j]:=i*j;
+G:genmatrix(g,n,n);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+f(x,y):=cos(x^3+%e^(x-y))/(log(x^2*y));
+'valor_exacto=f(1,2);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+'valor_aproximado=f(1,2),numer;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+r:5$
+
+plot2d([parametric,x:r*cos(t),y:r*sin(t)],[t,0,2*%pi]);
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 21.05.2"$
