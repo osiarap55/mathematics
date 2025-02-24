@@ -10,4 +10,4 @@ En este capítulo se introducen en detalle las funciones vectoriales de varias v
 
 Se debera dar prioridad a los ejercicios de la seccion La divergencia y el rotacional
 
-[[analisis matematico II/contenido_asignatura.md]]
+#analisis_matematico_II

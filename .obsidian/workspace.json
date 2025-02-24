@@ -60,10 +60,24 @@
             "id": "40a49637d7fd6b65",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "analisis_matematico_II/tema1_la_geometria_del_espacio_euclideo/la_geometria_del_espacio_euclideo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "la_geometria_del_espacio_euclideo"
             }
           }
         ],
@@ -78,22 +92,22 @@
             "id": "0df02a96a24ddedc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "1-1.semestre/QUIMICA/pdfcoffee.com_quimica-general-vol-1-esteban-santos-3-pdf-free.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "pdfcoffee.com_quimica-general-vol-1-esteban-santos-3-pdf-free"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
             "id": "cedc1d32f07ebdb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "pdf",
+              "state": {
+                "file": "analisis_matematico_II/calculo vectorial Marsden Tromba 3ed.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "calculo vectorial Marsden Tromba 3ed"
             }
           }
         ],
@@ -253,19 +267,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "40a49637d7fd6b65",
+  "active": "cedc1d32f07ebdb5",
   "lastOpenFiles": [
-    "4913",
-    "fundamentos_de_fisica_II/TRIPLE_mosca_vlo2.pdf",
-    "fundamentos_de_fisica_II",
-    "fundamentos_de_fisica/contenido_asignatura/06.Interaccion_Gravitatoria/Tema6_InteraccionGravitatoria_Problemas.pdf",
-    "fundamentos_de_fisica/contenido_asignatura/11.Termodinamica/Tema11_Termodinamica_Problemas.pdf",
-    "fundamentos_de_fisica/contenido_asignatura/10.Ondas/Tema10_Ondas_Problemas.pdf",
-    "fundamentos_de_fisica/contenido_asignatura/02.Leyes_de_Newton/Tema2_LeyesNewton_Problemas.pdf",
-    "fundamentos_de_fisica/contenido_asignatura/07.Equilibrio_Estatico_y_Elasticidad/Tema7_Estatica_Problemas.pdf",
-    "fundamentos_de_fisica/contenido_asignatura/08.Fluidos/Tema8_Fluidos_Problemas.pdf",
-    "fundamentos_de_fisica/contenido_asignatura/09.Oscilaciones/Tema9_Oscilaciones_Problemas.pdf",
-    "fundamentos_de_fisica/contenido_asignatura/02.Leyes_de_Newton/Ficha8_CA_Fuerzas_ficticias.pdf",
+    "analisis_matematico_II/tema1_la_geometria_del_espacio_euclideo/la_geometria_del_espacio_euclideo.md",
+    "analisis_matematico_II/calculo vectorial Marsden Tromba 3ed.pdf",
+    "fundamentos_de_fisica_II/tema1_Campo_electrico/resumen_tema1.md",
+    "analisis_matematico_II/material_complementario/material_complementario.md~",
+    "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_2/ejemplos_varias_variables2.md",
+    "analisis_matematico_II/material_complementario/4913",
+    "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_1/ejemplos_varias_variables.md",
+    "analisis_matematico_II/material_complementario/material_complementario.md",
+    "analisis_matematico_II/material_complementario/Notas_calculo_varias_variables.pdf",
+    "analisis_matematico_II/material_complementario/Multivariable_Calculus_formatted_for_printing.pdf",
+    "analisis_matematico_II/material_complementario/Active_Calculus_Multivariable_2018_Edition.pdf",
+    "analisis_matematico_II/material_complementario/material_complementario",
+    "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_1/calculus-2c.pdf",
+    "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_1/calculus-2c-5.pdf",
+    "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_1/calculus-2c-4.pdf",
+    "analisis_matematico_II/contenido_asignatura 1.md",
+    "analisis_matematico_II/contenido_asignatura.md",
+    "202502240756.md",
+    "analisis_matematico_II/tema2_diferenciacion/diferenciacion.md",
+    "fundamentos_de_fisica_II/tema2_potencial_electrico/resumen_tema2.md",
+    "fundamentos_de_fisica_II/tema8_interferencia_y_difraccion/resumen_tema8.md",
+    "fundamentos_de_fisica_II/tema7_propiedades_de_la_luz_imagenes_opticas/resumen_tema7.md",
+    "fundamentos_de_fisica_II/tema6_ondas_electromagneticas/resumen_tema6.md",
+    "fundamentos_de_fisica_II/tema5_fenomenos_de_induccion_electromagnetica/resumen_tema5.md",
+    "fundamentos_de_fisica_II/tema4_fuerzas_y_campos_magneticos/resumen_tema4.md",
+    "fundamentos_de_fisica_II/tema3_corriente_electrica/resumen_tema3.md",
     "fundamentos_de_fisica/metodo_de_trabajo_asignatura.md",
     "fundamentos_de_fisica/planificacion_curso.md",
     "fundamentos_de_fisica/metodologia_resolucion_problemas.md",
@@ -284,22 +313,6 @@
     "funciones_una_variable_I/cuando_encontramos_dificultad_en_seguir.md",
     "funciones_una_variable_I/contenido_asignatura.md",
     "funciones_una_variable_I/Metodologia_contenido.md",
-    "fisica_computacional/tema7_simulacion_sistemas_fisicos/sistemas_dinamicos.md",
-    "fisica_computacional/tema7_simulacion_sistemas_fisicos/resumen_tema7.md",
-    "fisica_computacional/tema7_simulacion_sistemas_fisicos/metodos_de_monte_carlo.md",
-    "fisica_computacional/tema7_simulacion_sistemas_fisicos/fractales.md",
-    "fisica_computacional/tema7_simulacion_sistemas_fisicos/automatas_celulares_elementales.md",
-    "fisica_computacional/tema6_programacion_algoritmos_numericos/resumen_tema6.md",
-    "fisica_computacional/tema5_calculo_simbolico/resumen_tema5.md",
-    "fisica_computacional/tema4_visualizacion_cientifica/resumen_tema4.md",
-    "fisica_computacional/tema3_introduccion_a_MATLAB/resumen_tema3.md",
-    "fisica_computacional/tema2_introduccion_a_C/resumen_tema2.md",
-    "fisica_computacional/tema1_introduccion_a_la_computacion/resumen_tema1.md",
-    "fisica_computacional/tema0_la_fisica_enlaerainformatica/resumen_tema0.md",
-    "fisica/fundamentos_de_fisica/planificacion_curso.md",
-    "fisica/fundamentos_de_fisica/metodologia_resolucion_problemas.md",
-    "fisica/fundamentos_de_fisica/metodologia.md",
-    "fisica/fundamentos_de_fisica/metodo_de_trabajo_asignatura.md",
-    "fisica/fundamentos_de_fisica/contenido_asignatura.md"
+    "fisica_computacional/tema7_simulacion_sistemas_fisicos/sistemas_dinamicos.md"
   ]
 }

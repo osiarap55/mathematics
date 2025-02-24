@@ -8,4 +8,4 @@ En este tema se extiende el concepto de derivada de una función real de una var
  - Gradiantes y dericadas direccional
 
 La elección de las secciones más relevantes del capítulo se ajusta al hecho de que la derivada es el concepto central del curso alrededor del cual gira todo su contenido, como es de esperar en un curso de cálculo. Es importante por tanto entender con soltura la diferenciación de funciones vectoriales de varias variables, esto es, funciones  vectoriales definidas en el espacio Euclídeo n-dimensional. Se recomienda dar prioridad a los ejercicios de la subsección Gradientes y derivadas direccionales.
-[[analisis matematico II/contenido_asignatura.md]]
+#analisis_matematico_II

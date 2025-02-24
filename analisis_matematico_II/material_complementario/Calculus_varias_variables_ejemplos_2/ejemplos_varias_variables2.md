@@ -1,0 +1,7 @@
+[[Mejlbro_L.-Calculus_2c,_Examples_of_Maximum_and_Minimum_Integration_and_Vector_Analysis(2007).pdf]]
+[[calculus-2c-10 (1).pdf]]
+[[calculus-2c-6.pdf]]
+[[calculus-2c-7.pdf]]
+[[calculus-2c-8.pdf]]
+[[calculus-2c-9.pdf]]
+[[ejemplos_varias_variables2.md]]

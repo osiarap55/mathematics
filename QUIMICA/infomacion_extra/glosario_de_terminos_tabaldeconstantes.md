@@ -10,4 +10,4 @@ Aqui hay varios pdf con informacion sobre los terminos en distinta ordenacion y 
 
 ![tabladeconstantes](Tabla_de_constantes-99825996.pdf)
 
-[[contenido_asignatura]]
+[[QUIMICA/contenido_asignatura]]

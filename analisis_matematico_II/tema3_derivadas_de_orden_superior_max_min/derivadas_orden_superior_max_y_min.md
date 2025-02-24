@@ -7,4 +7,4 @@ En este capítulo se introducen las derivadas de orden superior de funciones de 
  - El teorema de la funcion implícita
 
 Se recomienda que el estudiante de prioridad a los ejercicios de la sección El teorema de la función implícita.
-[[analisis matematico II/contenido_asignatura.md]]
+#analisis_matematico_II

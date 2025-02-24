@@ -9,4 +9,4 @@ En este capítulo se continúa profundizando en el estudio de técnicas de integ
  - Integrales de campos vectoriales sobre superficies
 
 Por su imortancia y aplicabilidad en diversas áreas de la física y las matemáticas, se deberá dar prioridad a los ejercicios de las secciones Integrales de funciones escalares sobre superficies y Integrales de campos vectoriales sobre superficies. 
-[[analisis matematico II/contenido_asignatura.md]]
+#analisis_matematico_II

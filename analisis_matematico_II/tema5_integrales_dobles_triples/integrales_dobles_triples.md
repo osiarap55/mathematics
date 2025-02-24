@@ -8,4 +8,4 @@ Después de haber dedicado los capítulos anteriores a la derivada y sus aplicac
 
 Se recomienda dar prioridad a la resolución de los ejercicios de las secciones mencionadas arriba. Es importante trabajar y entender este capítulo antes de abordar el siguiente, en el cual se introducen las propiedades y aplicaciones más importantes de la integral en lo que a este curso concierne.
 
-[[analisis matematico II/contenido_asignatura.md]]
+#analisis_matematico_II
