@@ -6,39 +6,15 @@
       {
         "id": "187c9330b1c00b9a",
         "type": "tabs",
-        "dimension": 47.97441364605544,
+        "dimension": 45.52238805970149,
         "children": [
           {
-            "id": "2225c47cb06a2b44",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "1-1.semestre/QUIMICA/1-parte/Plandetrabajo1parte.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Plandetrabajo1parte"
-            }
-          },
-          {
-            "id": "aabcb70059d3f88c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "1-2.semestre/fisica/1.cinetica/Problemas_resueltos_Tema_0_(repaso)_Cinemática (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Problemas_resueltos_Tema_0_(repaso)_Cinemática (1)"
-            }
-          },
-          {
-            "id": "156a95078351ac88",
+            "id": "cedc1d32f07ebdb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-2.semestre/fisica/fisica_computacional/tema3/resumen_tema3.md",
+                "file": "fundamentos_de_fisica_II/tema1_Campo_electrico/resumen_tema1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,16 +29,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "resumen_tema3"
+              "title": "resumen_tema1"
             }
           },
           {
             "id": "40a49637d7fd6b65",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "fundamentos_de_fisica_II/tema2_potencial_electrico/FichaPreviosTema2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "FichaPreviosTema2"
+            }
+          },
+          {
+            "id": "b53fa5088e23b66c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "analisis_matematico_II/tema1_la_geometria_del_espacio_euclideo/la_geometria_del_espacio_euclideo.md",
+                "file": "analisis_matematico_II/articulacion_contenido.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +65,43 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "la_geometria_del_espacio_euclideo"
+              "title": "articulacion_contenido"
+            }
+          },
+          {
+            "id": "c33178c05424f616",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "fisica_computacional/tema2_introduccion_a_C/Tema 2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Tema 2"
+            }
+          },
+          {
+            "id": "2633fca8c5d72370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fisica_computacional/tema2_introduccion_a_C/resumen_tema2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "resumen_tema2"
             }
           }
         ],
@@ -86,20 +110,22 @@
       {
         "id": "526c03897c7724c2",
         "type": "tabs",
-        "dimension": 52.02558635394456,
+        "dimension": 54.47761194029851,
         "children": [
           {
-            "id": "0df02a96a24ddedc",
+            "id": "517f1dd338c66777",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "pdf",
+              "state": {
+                "file": "fundamentos_de_fisica_II/TRIPLE_mosca_vlo2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TRIPLE_mosca_vlo2"
             }
           },
           {
-            "id": "cedc1d32f07ebdb5",
+            "id": "dfe6a9f0cc403016",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -109,9 +135,19 @@
               "icon": "lucide-file-text",
               "title": "calculo vectorial Marsden Tromba 3ed"
             }
+          },
+          {
+            "id": "2ebaac17e39592f3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#fisica_computacional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,39 +303,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "cedc1d32f07ebdb5",
+  "active": "c33178c05424f616",
   "lastOpenFiles": [
-    "analisis_matematico_II/tema1_la_geometria_del_espacio_euclideo/la_geometria_del_espacio_euclideo.md",
-    "analisis_matematico_II/calculo vectorial Marsden Tromba 3ed.pdf",
+    "fisica_computacional/tema2_introduccion_a_C/If_else/control_del_flujo_if_else.md",
+    "fisica_computacional/tema2_introduccion_a_C/Tema 2.pdf",
+    "fisica_computacional/tema2_introduccion_a_C/If_else/control_del_flujo_if_else.md~",
+    "fisica_computacional/tema2_introduccion_a_C/If_else/4913",
+    "fisica_computacional/tema2_introduccion_a_C/If_else",
+    "fisica_computacional/tema2_introduccion_a_C/declaraciones_de_varaibles/If_else/4913",
+    "202503241901.md",
+    "fisica_computacional/tema2_introduccion_a_C/declaraciones_de_varaibles/If_else/control_del_flujo_if_else.md~",
+    "fisica_computacional/tema2_introduccion_a_C/declaraciones_de_varaibles/If_else/control_del_flujo_if_else.md",
+    "fisica_computacional/tema2_introduccion_a_C/declaraciones_de_varaibles/If_else",
+    "fisica_computacional/tema2_introduccion_a_C/declaraciones_de_varaibles/declaraciones_de_variables.md",
+    "fisica_computacional/tema2_introduccion_a_C/compilaciones_enlazado/compilacion_enlazado_y_ejecucion_d_programas.md",
+    "fisica_computacional/tema2_introduccion_a_C/compilaciones_enlazado",
+    "fisica_computacional/tema2_introduccion_a_C/declaraciones_de_varaibles/function_atoi.c",
+    "fisica_computacional/tema2_introduccion_a_C/declaraciones_de_varaibles/function_atoib",
+    "fisica_computacional/tema2_introduccion_a_C/resumen_tema2.md",
+    "fisica_computacional/tema0_la_fisica_enlaerainformatica/resumen_tema0.md",
+    "fisica_computacional/tema2_introduccion_a_C/compilacion_enlazado_y_ejecucion_d_programas.md",
+    "analisis_matematico_II/tabla_derivada.md",
+    "analisis_matematico_II/articulacion_contenido.md",
     "fundamentos_de_fisica_II/tema1_Campo_electrico/resumen_tema1.md",
-    "analisis_matematico_II/material_complementario/material_complementario.md~",
+    "fundamentos_de_fisica_II/tema2_potencial_electrico/resumen_tema2.md",
+    "analisis_matematico_II/tema2_diferenciacion/diferenciacion.md",
+    "analisis_matematico_II/tema2_diferenciacion/Figure_1.png",
+    "fisica_computacional/tema1_introduccion_a_la_computacion/resumen_tema1.md",
+    "fundamentos_de_fisica_II/tema1_Campo_electrico/prueba_preguntas_y_respuestas.md",
+    "analisis_matematico_II/tema1_la_geometria_del_espacio_euclideo/la_geometria_del_espacio_euclideo.md",
+    "202503050700.md",
+    "analisis_matematico_II/material_complementario/Periodic_table_large-es-updated-2018.svg.png",
+    "202502260648.md",
     "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_2/ejemplos_varias_variables2.md",
-    "analisis_matematico_II/material_complementario/4913",
     "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_1/ejemplos_varias_variables.md",
     "analisis_matematico_II/material_complementario/material_complementario.md",
-    "analisis_matematico_II/material_complementario/Notas_calculo_varias_variables.pdf",
-    "analisis_matematico_II/material_complementario/Multivariable_Calculus_formatted_for_printing.pdf",
-    "analisis_matematico_II/material_complementario/Active_Calculus_Multivariable_2018_Edition.pdf",
-    "analisis_matematico_II/material_complementario/material_complementario",
-    "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_1/calculus-2c.pdf",
-    "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_1/calculus-2c-5.pdf",
-    "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_1/calculus-2c-4.pdf",
     "analisis_matematico_II/contenido_asignatura 1.md",
     "analisis_matematico_II/contenido_asignatura.md",
     "202502240756.md",
-    "analisis_matematico_II/tema2_diferenciacion/diferenciacion.md",
-    "fundamentos_de_fisica_II/tema2_potencial_electrico/resumen_tema2.md",
     "fundamentos_de_fisica_II/tema8_interferencia_y_difraccion/resumen_tema8.md",
-    "fundamentos_de_fisica_II/tema7_propiedades_de_la_luz_imagenes_opticas/resumen_tema7.md",
-    "fundamentos_de_fisica_II/tema6_ondas_electromagneticas/resumen_tema6.md",
-    "fundamentos_de_fisica_II/tema5_fenomenos_de_induccion_electromagnetica/resumen_tema5.md",
-    "fundamentos_de_fisica_II/tema4_fuerzas_y_campos_magneticos/resumen_tema4.md",
-    "fundamentos_de_fisica_II/tema3_corriente_electrica/resumen_tema3.md",
-    "fundamentos_de_fisica/metodo_de_trabajo_asignatura.md",
-    "fundamentos_de_fisica/planificacion_curso.md",
-    "fundamentos_de_fisica/metodologia_resolucion_problemas.md",
-    "fundamentos_de_fisica/metodologia.md",
-    "fundamentos_de_fisica/contenido_asignatura.md",
     "lenguaje_matematico_conjuntos_y_numeros/IMG_6363.jpeg",
     "lenguaje_matematico_conjuntos_y_numeros/IMG_6362.jpeg",
     "lenguaje_matematico_conjuntos_y_numeros/IMG_6361.jpeg",
@@ -307,12 +349,6 @@
     "lenguaje_matematico_conjuntos_y_numeros/IMG_6359.jpeg",
     "lenguaje_matematico_conjuntos_y_numeros/IMG_6358.jpeg",
     "lenguaje_matematico_conjuntos_y_numeros/IMG_6357.jpeg",
-    "lenguaje_matematico_conjuntos_y_numeros/IMG_6356.jpeg",
-    "lenguaje_matematico_conjuntos_y_numeros/Captura de pantalla de 2023-08-30 10-54-41.png",
-    "geometria_basica/ejercicios/6. teorema de pitagoras/ejercicio 6.4.jpg",
-    "funciones_una_variable_I/cuando_encontramos_dificultad_en_seguir.md",
-    "funciones_una_variable_I/contenido_asignatura.md",
-    "funciones_una_variable_I/Metodologia_contenido.md",
-    "fisica_computacional/tema7_simulacion_sistemas_fisicos/sistemas_dinamicos.md"
+    "lenguaje_matematico_conjuntos_y_numeros/IMG_6356.jpeg"
   ]
 }
