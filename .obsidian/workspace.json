@@ -79,9 +79,33 @@
               "icon": "lucide-file",
               "title": "la_geometria_del_espacio_euclideo"
             }
+          },
+          {
+            "id": "fbfc09cc96e242f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fundamentos_de_fisica/planificacion_curso.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "planificacion_curso"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "526c03897c7724c2",
@@ -89,29 +113,30 @@
         "dimension": 52.02558635394456,
         "children": [
           {
-            "id": "0df02a96a24ddedc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
             "id": "cedc1d32f07ebdb5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "analisis_matematico_II/calculo vectorial Marsden Tromba 3ed.pdf"
+                "file": "fundamentos_de_fisica_II/tema2_potencial_electrico/resumen_tema2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "calculo vectorial Marsden Tromba 3ed"
+              "icon": "lucide-file",
+              "title": "resumen_tema2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +159,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -242,8 +267,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -256,22 +281,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Crear nueva nota única": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "cedc1d32f07ebdb5",
+  "active": "fbfc09cc96e242f4",
   "lastOpenFiles": [
-    "analisis_matematico_II/tema1_la_geometria_del_espacio_euclideo/la_geometria_del_espacio_euclideo.md",
-    "analisis_matematico_II/calculo vectorial Marsden Tromba 3ed.pdf",
+    "fundamentos_de_fisica/Mosca vol I -Fisica-Tipler-5ta-Edicion-Vol-1.pdf",
+    "fundamentos_de_fisica/metodologia_resolucion_problemas.md",
+    "fundamentos_de_fisica/metodologia.md",
+    "fundamentos_de_fisica/metodo_de_trabajo_asignatura.md",
+    "fundamentos_de_fisica/InstruccionesProblemas.pdf",
+    "fundamentos_de_fisica/contenido_asignatura.md",
+    "fundamentos_de_fisica/contenido_asignatura/00.Conceptos_Generales/Calculo.pdf",
+    "fundamentos_de_fisica_II/tema2_potencial_electrico/resumen_tema2.md",
     "fundamentos_de_fisica_II/tema1_Campo_electrico/resumen_tema1.md",
+    "fundamentos_de_fisica_II/tema1_Campo_electrico/Tema1_FuerzaCampoElectrostatico.pdf",
+    "fundamentos_de_fisica_II/TRIPLE_mosca_vlo2.pdf",
+    "analisis_matematico_II/calculo vectorial Marsden Tromba 3ed.pdf",
+    "analisis_matematico_II/tema1_la_geometria_del_espacio_euclideo/la_geometria_del_espacio_euclideo.md",
     "analisis_matematico_II/material_complementario/material_complementario.md~",
     "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_2/ejemplos_varias_variables2.md",
     "analisis_matematico_II/material_complementario/4913",
@@ -280,26 +315,17 @@
     "analisis_matematico_II/material_complementario/Notas_calculo_varias_variables.pdf",
     "analisis_matematico_II/material_complementario/Multivariable_Calculus_formatted_for_printing.pdf",
     "analisis_matematico_II/material_complementario/Active_Calculus_Multivariable_2018_Edition.pdf",
-    "analisis_matematico_II/material_complementario/material_complementario",
-    "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_1/calculus-2c.pdf",
-    "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_1/calculus-2c-5.pdf",
-    "analisis_matematico_II/material_complementario/Calculus_varias_variables_ejemplos_1/calculus-2c-4.pdf",
     "analisis_matematico_II/contenido_asignatura 1.md",
     "analisis_matematico_II/contenido_asignatura.md",
     "202502240756.md",
     "analisis_matematico_II/tema2_diferenciacion/diferenciacion.md",
-    "fundamentos_de_fisica_II/tema2_potencial_electrico/resumen_tema2.md",
     "fundamentos_de_fisica_II/tema8_interferencia_y_difraccion/resumen_tema8.md",
     "fundamentos_de_fisica_II/tema7_propiedades_de_la_luz_imagenes_opticas/resumen_tema7.md",
     "fundamentos_de_fisica_II/tema6_ondas_electromagneticas/resumen_tema6.md",
     "fundamentos_de_fisica_II/tema5_fenomenos_de_induccion_electromagnetica/resumen_tema5.md",
     "fundamentos_de_fisica_II/tema4_fuerzas_y_campos_magneticos/resumen_tema4.md",
     "fundamentos_de_fisica_II/tema3_corriente_electrica/resumen_tema3.md",
-    "fundamentos_de_fisica/metodo_de_trabajo_asignatura.md",
     "fundamentos_de_fisica/planificacion_curso.md",
-    "fundamentos_de_fisica/metodologia_resolucion_problemas.md",
-    "fundamentos_de_fisica/metodologia.md",
-    "fundamentos_de_fisica/contenido_asignatura.md",
     "lenguaje_matematico_conjuntos_y_numeros/IMG_6363.jpeg",
     "lenguaje_matematico_conjuntos_y_numeros/IMG_6362.jpeg",
     "lenguaje_matematico_conjuntos_y_numeros/IMG_6361.jpeg",
